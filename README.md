@@ -11,7 +11,7 @@ whereby one can visualise the plateau and the rovers.
 
 How to Set up enviroment:
 
-For development you will only need Node.js installed on your enviroment.
+For development you will only need Node.js installed on your enviroment along with adding nodemon as a dependancy.
 
 Installation Instructions:
 
