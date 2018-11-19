@@ -1,0 +1,14 @@
+{
+  "name": "marsroverchallenge",
+  "version": "1.0.0",
+  "description": "MarsRover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muneer",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
